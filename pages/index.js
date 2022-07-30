@@ -14,7 +14,7 @@ export default function Home() {
 
    
 <div>
-  hello nextjs
+  hello world
   
 < Button>Click me</Button>
 
