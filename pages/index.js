@@ -3,6 +3,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import tw, { styled } from "twin.macro";
 import {Box} from '@chakra-ui/react';
+
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -14,13 +15,11 @@ export default function Home() {
 
    
 <div>
-  hello world
-  
-< Button>Click me</Button>
 
-<Box bg='tomato' w='100%' p={4} color='white'>
-  This is the Box
-</Box>
+<section>
+  <h1>NEXTJS APP HRERE11212</h1>
+</section>
+
 
 </div>
 

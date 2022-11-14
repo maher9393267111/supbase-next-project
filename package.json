@@ -13,6 +13,7 @@
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
     "@reduxjs/toolkit": "^1.8.3",
+    "@supabase/supabase-js": "^1.35.4",
     "antd": "^4.21.7",
     "firebase": "^9.9.1",
     "framer-motion": "^6.5.1",
